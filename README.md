@@ -5,16 +5,16 @@ Or you can train your own model with your own data just add the train and valida
 dependency = tensorflow-gpu, opencv2, numpy
 train->
 
-  #Angry->
-  #  1.img
-  #  2.img
+  Angry->
+    1.img
+    2.img
     .
     .
     .
     
-  #Disgust->
-  #  1.img
-  #  2.img
+  Disgust->
+    1.img
+    2.img
     .
     .
     .
