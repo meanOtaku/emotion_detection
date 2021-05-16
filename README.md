@@ -5,3 +5,11 @@ Or you can train your own model with your own data just add the train and valida
 dependency = tensorflow-gpu, opencv2, numpy
 run the model.py for your own model .
 run test_code.py for using the model
+
+
+
+
+
+#name : Vaibhav Bisht
+#rollno: 2013564
+#section: E
