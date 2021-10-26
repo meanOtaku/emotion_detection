@@ -9,7 +9,7 @@ import os
 import tensorflow.compat.v1 as tf
 tf.disable_v2_behavior()
 
-num_classes=7
+num_classes=5
 img_rows,img_cols=48,48
 batch_size=32
 
